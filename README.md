@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Manjunath
 - 👀 I’m interested in data, data and data.
 - 🌱 I’m currently learning Deep Learning.
-- 💞️ I’m looking to collaborate on making YT videos on topics related to Data Viz.
+- 💞️ I’m looking to collaborate to create YT content on topics related to Data Viz.
 - 📫 You could reach me on manjunath8cy@gmail.com
 
 <!---
